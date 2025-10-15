@@ -1,5 +1,5 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#4CAF50;">Pablo Nuñez</span> 🇵🇾</h1>
-<h3 align="center">Junior Developer | Apasionado por la tecnología, el aprendizaje y crear soluciones que inspiren 🚀</h3>
+<h1 align="center">👋 Hi! I'm <span style="color:#4CAF50;">Pablo Nuñez</span> 🇵🇾</h1>
+<h3 align="center">Junior Developer | Passionate about technology, learning, and building solutions that inspire 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-nu%C3%B1ez-970725321/" target="_blank">
@@ -18,18 +18,18 @@
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-💡 Soy un **desarrollador junior paraguayo**, apasionado por la tecnología, la lógica y el diseño funcional.  
-🎓 Estudio **Ingeniería en Informática** en la **Universidad Nacional de Asunción**.  
-💻 Trabajo con **HTML, CSS, JavaScript, React, Python y C**, aplicando buenas prácticas y buscando soluciones eficientes.  
-🧪 Tengo experiencia con **Cypress** para automatizar pruebas (QA Testing) y manejo de **Postman** para testeo de APIs.  
-🌱 Me encanta aprender, colaborar y compartir mis conocimientos con otros desarrolladores.  
-✨ Creo que el código es una herramienta para **crear, enseñar y mejorar el mundo**.
+💡 I'm a **junior developer from Paraguay**, passionate about technology, logic, and functional design.  
+🎓 I’m currently pursuing a **Bachelor’s Degree in Computer Science** at the **National University of Asunción**.  
+💻 I work with **HTML, CSS, JavaScript, React, Python, and C**, always applying best practices and seeking efficient solutions.  
+🧪 I have experience using **Cypress** for automated testing (QA) and **Postman** for API testing.  
+🌱 I love learning, collaborating, and sharing knowledge with other developers.  
+✨ I believe that code is a tool to **create, teach, and make the world better**.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,10 +43,10 @@
 
 ---
 
-### 🚀 Proyectos personales destacados
+### 🚀 Featured Projects
 
 <p>
-Estos son algunos de los proyectos que reflejan mi experiencia en desarrollo frontend y backend 👇
+Here are some projects that reflect my experience in both frontend and backend development 👇
 </p>
 
 <div align="center">
@@ -54,31 +54,31 @@ Estos son algunos de los proyectos que reflejan mi experiencia en desarrollo fro
   <a href="https://github.com/pablonunez10/genex-eco-front" target="_blank">
     <img src="https://img.shields.io/badge/🌿%20Genex%20Eco%20Front-React%20|%20CSS%20|%20Vite%20|%20API-blue?style=for-the-badge" />
   </a>
-  <p><b>Genex Eco (Frontend)</b> → Aplicación web moderna con React, integración de APIs y diseño responsivo.</p>
+  <p><b>Genex Eco (Frontend)</b> → A modern web application built with React, API integration, and responsive design.</p>
 
   <a href="https://github.com/pablonunez10/genex-eco-back" target="_blank">
     <img src="https://img.shields.io/badge/⚙️%20Genex%20Eco%20Back-Node.js%20|%20Express%20|%20API-green?style=for-the-badge" />
   </a>
-  <p><b>Genex Eco (Backend)</b> → API REST desarrollada con Node.js y Express, centrada en eficiencia y escalabilidad.</p>
+  <p><b>Genex Eco (Backend)</b> → A REST API built with Node.js and Express, focused on efficiency and scalability.</p>
 
 </div>
 
 <p align="center">
-✨ <i>“Cada proyecto es una oportunidad para crecer, aprender y mejorar.”</i> ✨
+✨ <i>“Every project is an opportunity to grow, learn, and improve.”</i> ✨
 </p>
 
 ---
 
-### 🧪 Experiencia en QA Testing
+### 🧪 QA Testing Experience
 
-- 🧩 Pruebas automatizadas con **Cypress**.  
-- 🔍 Testeo de endpoints y flujos con **Postman**.  
-- ⚡ Verificación de funcionalidades críticas y rendimiento.  
-- 🧠 Enfoque en mejorar la calidad del software a través de la prevención de errores.  
+- 🧩 Automated testing with **Cypress**.  
+- 🔍 API and workflow testing with **Postman**.  
+- ⚡ Verification of critical features and performance.  
+- 🧠 Focused on improving software quality through error prevention.  
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablonunez10&theme=tokyonight&hide_border=false" alt="Streak Stats" />
@@ -94,21 +94,21 @@ Estos son algunos de los proyectos que reflejan mi experiencia en desarrollo fro
 
 ---
 
-### 🏆 Metas y valores
+### 🏆 Goals and Values
 
-- 💡 **Compartir conocimientos** y ayudar a otros desarrolladores a crecer.  
-- 🤝 **Colaborar en proyectos** con impacto positivo.  
-- 🚀 **Seguir aprendiendo** nuevas tecnologías y buenas prácticas.  
-- 🎨 Crear experiencias digitales que mezclen **funcionalidad y diseño**.  
-- 🌱 Mantener siempre la **curiosidad, empatía y ganas de mejorar**.  
+- 💡 **Share knowledge** and help other developers grow.  
+- 🤝 **Collaborate** on projects that create a positive impact.  
+- 🚀 **Keep learning** new technologies and best practices.  
+- 🎨 Build digital experiences that blend **functionality and design**.  
+- 🌱 Always stay **curious, empathetic, and motivated to improve**.  
 
 <p align="center">
-✨ <i>“Me encanta aprender, enseñar y construir cosas que inspiren a otros.”</i> ✨
+✨ <i>“I love learning, teaching, and building things that inspire others.”</i> ✨
 </p>
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 <p align="center">
   📧 **nunezbenitezpablo@gmail.com**  
@@ -121,4 +121,4 @@ Estos son algunos de los proyectos que reflejan mi experiencia en desarrollo fro
 
 ---
 
-⭐ *“El código no solo resuelve problemas, también puede inspirar.”*
+⭐ *“Code doesn’t just solve problems — it can inspire.”*
